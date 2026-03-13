@@ -162,7 +162,7 @@ interface/console_controller.py
 
 ## 8. Як запустити проєкт
 
-1. Встановити Python 3.
+1. Встановити Python.
 
 2. Клонувати репозиторій:
 
